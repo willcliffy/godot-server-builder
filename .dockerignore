@@ -1,0 +1,7 @@
+**/android
+**/target
+**/dist
+**/_engine/Godot*
+**/_engine/templates
+!**/_engine/Godot_v4.3-stable_linux*
+!**/_engine/templates/linux_*

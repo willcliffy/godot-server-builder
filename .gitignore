@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+target/
+bin/
+_engine/
+.env
+dist/
+secrets/
